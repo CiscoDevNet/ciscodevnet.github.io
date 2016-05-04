@@ -1,0 +1,275 @@
+
+body {
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top {
+    background-color: #049fd9;
+}
+
+.navbar-brand {
+    color: #FFFFFF;
+}
+
+.devnet-navbar {
+    color: #FFFFFF;
+}
+
+.devnet-image {
+    width: 100px;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    /*background: url('http://placehold.it/1900x500') no-repeat center center scroll;*/
+    background-image: url(https://developer.cisco.com/images/networking/content/devcenter/Network-Background-graphic-1.png), url(https://developer.cisco.com/images/networking/content/devcenter/Network-Background-graphic-2.png), linear-gradient(to right bottom, rgb(73, 158, 234), rgb(62, 173, 157));
+    background-color: #049fd9;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline {
+    padding: 120px 0;
+}
+
+.headline h1 {
+    font-size: 130px;
+    color: #FFFFFF;
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+.featurette {
+    overflow: hidden;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+/*
+ * Cell Items
+ */
+
+.pListItem{
+	margin-top: 30px;
+	padding-bottom: 10px;
+	border-bottom: #9e9ea2 solid 1px;
+  min-height: 150px;
+}
+
+.pListItem h2{
+	color:#58585b;
+}
+.pListItem p{
+	color:#58585b;
+}
+
+.repo {
+  float: right;
+}
+
+
+/*
+ * Footer
+ */
+
+footer {
+    margin: 50px 0;
+}
+
+.footer {
+	text-align: left;
+	padding: 20px 0 0 0;
+	margin-top: 70px;
+	background-color: #333;
+}
+
+.footer.hidden {
+	position: absolute;
+	bottom: -100px;
+}
+
+.footer a, .footer p {
+	font-size: 12px;
+	font-size: 1.2rem;
+	color: #868686;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer .bottomNavBar div.col-sm-3 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.footer .bottomNavBar p {
+	font-size: 12px;
+	font-size: 1.2rem;
+	margin-bottom: 0;
+}
+
+.footer .bottomNavBar ul {
+	list-style: none;
+	padding-top: 4px;
+	padding-left: 0;
+	margin-bottom: 24px;
+}
+
+.footer .bottomNavBar ul li a {
+	font-size: 12px;
+	font-size: 1.2rem;
+	line-height: 20px;
+	position: relative;
+	display: block;
+}
+
+.footer .copyright {
+	font-size: 12px;
+	font-size: 1.2rem;
+	color: #888;
+	text-align: left;
+	margin-bottom: 3px;
+	display: inline-block;
+}
+
+.footer .devnet-image {
+  vertical-align: middle;
+  padding-bottom: 10px;
+}
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+    }
+
+    .featurette-divider {
+        margin: 50px 0;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+    }
+
+    .featurette-heading {
+        font-size: 35px;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+    }
+
+    .featurette-heading {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-heading {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+    }
+
+    .featurette-divider {
+        margin: 30px 0;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 75px 0 25px 0;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}
