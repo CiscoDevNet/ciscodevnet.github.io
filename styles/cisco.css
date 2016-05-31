@@ -25,7 +25,7 @@ body {
     height: 200px;
     text-align: center;
     /*background: url('http://placehold.it/1900x500') no-repeat center center scroll;*/
-    background-image: url(https://developer.cisco.com/images/networking/content/devcenter/Network-Background-graphic-1.png), url(https://developer.cisco.com/images/networking/content/devcenter/Network-Background-graphic-2.png), linear-gradient(to right bottom, rgb(73, 158, 234), rgb(62, 173, 157));
+    background-image: url(/img/Network-Background-graphic-1.png), url(/img/Network-Background-graphic-2.png), linear-gradient(to right bottom, rgb(73, 158, 234), rgb(62, 173, 157));
     background-color: #049fd9;
     -webkit-background-size: cover;
     -moz-background-size: cover;
