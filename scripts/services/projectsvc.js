@@ -12,7 +12,7 @@ angular.module('devnetApp')
     // AngularJS will instantiate a singleton by calling "new" on this function
     return {
       getPosts : function(title) {
-        $log.info("title: ", title);
+        //$log.info("title: ", title);
         return $http.get('data/' + title + '.json');
       }
     }
