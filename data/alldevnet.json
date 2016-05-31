@@ -1,1 +1,457 @@
-[{"title":"apicem-sample-codes","desc":"This repo is for everyone to share APIC-EM APIs codes","githubUrl":"https://github.com/CiscoDevNet/apicem-sample-codes","forks":6,"stars":5,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"virl-utils","desc":"Utilities for integrating VIRL with the developer experience","githubUrl":"https://github.com/CiscoDevNet/virl-utils","forks":1,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"coding-skills-sample-code","desc":"Sample code for the Cisco DevNet Coding Skills Learning Labs","githubUrl":"https://github.com/CiscoDevNet/coding-skills-sample-code","forks":20,"stars":15,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"APIC-EM-HelloWorld","desc":"Some sample scripts for APIC-EM","githubUrl":"https://github.com/CiscoDevNet/APIC-EM-HelloWorld","forks":1,"stars":5,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"eiot-example","desc":"Sample code examples for Enterprise IoT ","githubUrl":"https://github.com/CiscoDevNet/eiot-example","forks":2,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"cosc-learning-labs","desc":"Cisco Open SDN Controller Learning Labs code.","githubUrl":"https://github.com/CiscoDevNet/cosc-learning-labs","forks":12,"stars":7,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"nxapi-learning-labs","desc":"Cisco NX-API Learning Labs","githubUrl":"https://github.com/CiscoDevNet/nxapi-learning-labs","forks":1,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"nxos-ansible","desc":"Ansible modules to automate Cisco NX-OS switches","githubUrl":"https://github.com/CiscoDevNet/nxos-ansible","forks":2,"stars":5,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"devnet-dev-vms","desc":"Development VMs for DevNet technologies","githubUrl":"https://github.com/CiscoDevNet/devnet-dev-vms","forks":3,"stars":3,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"coding-skills-go","desc":"Coding Skills examples in Go","githubUrl":"https://github.com/CiscoDevNet/coding-skills-go","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"api-design-guide","desc":"Guidelines for designing your REST API","githubUrl":"https://github.com/CiscoDevNet/api-design-guide","forks":1,"stars":14,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"yang-explorer","desc":"An open-source Yang Browser and RPC Builder Application","githubUrl":"https://github.com/CiscoDevNet/yang-explorer","forks":6,"stars":26,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"opendaylight-sample-apps","desc":"Sample applications for use with OpenDaylight (https://www.opendaylight.org/)","githubUrl":"https://github.com/CiscoDevNet/opendaylight-sample-apps","forks":12,"stars":6,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"Opendaylight-BGP-Pathman-apps","desc":"BGP and PCEP apps for Opendaylight, with the backend written in Python and the UI in JavaScript for NeXt","githubUrl":"https://github.com/CiscoDevNet/Opendaylight-BGP-Pathman-apps","forks":5,"stars":3,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"tropo-banking-sample","desc":"A simple Tropo scripting sample in python showing a number of features in a 'banking' type scenario","githubUrl":"https://github.com/CiscoDevNet/tropo-banking-sample","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"APIC-EM-REST-API-GUI-based-demos","desc":null,"githubUrl":"https://github.com/CiscoDevNet/APIC-EM-REST-API-GUI-based-demos","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"flare","desc":"Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple location technologies with a realtime communications architecture, to enable new kinds of user interactions.","githubUrl":"https://github.com/CiscoDevNet/flare","forks":4,"stars":9,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"OpenDaylight-Openflow-App","desc":"","githubUrl":"https://github.com/CiscoDevNet/OpenDaylight-Openflow-App","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"opendaylight-bootcamps","desc":"repository for code created at OpenDaylight bootcamps","githubUrl":"https://github.com/CiscoDevNet/opendaylight-bootcamps","forks":14,"stars":4,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"distributed-tx","desc":"Distributed (network wide) transaction support for ODL","githubUrl":"https://github.com/CiscoDevNet/distributed-tx","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"odl-kafka-plugin","desc":"Opendaylight kafka user agent","githubUrl":"https://github.com/CiscoDevNet/odl-kafka-plugin","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"spark-auth-sample","desc":"A simple Tropo scripting sample in python showing a number of features in a 'banking' type scenario","githubUrl":"https://github.com/CiscoDevNet/spark-auth-sample","forks":3,"stars":5,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apicem-ga-ll-sample-code","desc":"This sample code is paired with the Cisco DevNet Learning Labs APIC-EM APIs GA release with Python.","githubUrl":"https://github.com/CiscoDevNet/apicem-ga-ll-sample-code","forks":1,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"sdn-springboard","desc":"Get started with Cisco SDN","githubUrl":"https://github.com/CiscoDevNet/sdn-springboard","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apic-em-samples-aradford","desc":"","githubUrl":"https://github.com/CiscoDevNet/apic-em-samples-aradford","forks":1,"stars":2,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"spark-webhooks-sample","desc":"Scripts for creating a Spark webhook to get notified of new messages in a room, filter the messages, trigger a request to get data from APIC-EM's controller, and then post the data in a Spark room.","githubUrl":"https://github.com/CiscoDevNet/spark-webhooks-sample","forks":3,"stars":2,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"next-ui","desc":"Open-source JS Framework for visualization network topologies","githubUrl":"https://github.com/CiscoDevNet/next-ui","forks":4,"stars":14,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"cmx-mobile-sdk","desc":"cmx-mobile-sdk","githubUrl":"https://github.com/CiscoDevNet/cmx-mobile-sdk","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"cmx-mobile-sdk-server","desc":"cmx-mobile-sdk-server","githubUrl":"https://github.com/CiscoDevNet/cmx-mobile-sdk-server","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"pceof-gui","desc":"GUI of Path Computation Element","githubUrl":"https://github.com/CiscoDevNet/pceof-gui","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"cosc-rest-api-python","desc":"Python sample codes for COSC 1.2.1 learning lab","githubUrl":"https://github.com/CiscoDevNet/cosc-rest-api-python","forks":3,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"openconfig-getting-started","desc":"Getting started guides for OpenConfig in Cisco IOS XR","githubUrl":"https://github.com/CiscoDevNet/openconfig-getting-started","forks":0,"stars":2,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"restconf-examples","desc":"RESTconf examples for learning labs and sample code","githubUrl":"https://github.com/CiscoDevNet/restconf-examples","forks":2,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"collab-uds","desc":"Learning Lab content for User Data Services lab","githubUrl":"https://github.com/CiscoDevNet/collab-uds","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"tropo-openstreetmap","desc":"Small example showing use of Tropo WebAPI (Python) and OpenStreetMap's Overpass API to translate an SMS address to a set of lattitude longitude coordinates","githubUrl":"https://github.com/CiscoDevNet/tropo-openstreetmap","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"grpc-getting-started","desc":"Getting started guide for gRPC in Cisco IOS XR","githubUrl":"https://github.com/CiscoDevNet/grpc-getting-started","forks":1,"stars":3,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"aci-learning-labs","desc":"DevNet Learning Labs covering Cisco ACI","githubUrl":"https://github.com/CiscoDevNet/aci-learning-labs","forks":3,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"iotvizconf","desc":"","githubUrl":"https://github.com/CiscoDevNet/iotvizconf","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"finesse-learning-labs","desc":"DevNet Learning Labs on Finesse","githubUrl":"https://github.com/CiscoDevNet/finesse-learning-labs","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"choochoo","desc":"","githubUrl":"https://github.com/CiscoDevNet/choochoo","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ydk-py","desc":"Python SDK generated from YANG data models.","githubUrl":"https://github.com/CiscoDevNet/ydk-py","forks":2,"stars":7,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"sample-code-cmx","desc":"Sample code for Cisco CMX (connected mobility experience)","githubUrl":"https://github.com/CiscoDevNet/sample-code-cmx","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"git-intro-workstation-reset","desc":"A python script to reset the git-intro learning lab series","githubUrl":"https://github.com/CiscoDevNet/git-intro-workstation-reset","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"netconf-examples","desc":"NETCONF examples for learning labs","githubUrl":"https://github.com/CiscoDevNet/netconf-examples","forks":0,"stars":2,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"cmx-education","desc":"CMX Education","githubUrl":"https://github.com/CiscoDevNet/cmx-education","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"collab-jg","desc":"Learning Lab content for the Cisco collaboration Jabber Guest Web API","githubUrl":"https://github.com/CiscoDevNet/collab-jg","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"collab-webex","desc":"Learning Lab content for the Cisco collaboration WebEx API","githubUrl":"https://github.com/CiscoDevNet/collab-webex","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"virl-learning-lab","desc":"","githubUrl":"https://github.com/CiscoDevNet/virl-learning-lab","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"didactic-spork","desc":"","githubUrl":"https://github.com/CiscoDevNet/didactic-spork","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"yang-examples","desc":"","githubUrl":"https://github.com/CiscoDevNet/yang-examples","forks":0,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"opendaylight-setup","desc":"scripts to setup OpenDaylight","githubUrl":"https://github.com/CiscoDevNet/opendaylight-setup","forks":1,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ydk-gen","desc":"Extensions to pyang for generating code from yang models.","githubUrl":"https://github.com/CiscoDevNet/ydk-gen","forks":3,"stars":6,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ydk-py-samples","desc":"Sample apps for YDK-Py","githubUrl":"https://github.com/CiscoDevNet/ydk-py-samples","forks":0,"stars":3,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"coding-skills-spark","desc":"Sample code for Spark","githubUrl":"https://github.com/CiscoDevNet/coding-skills-spark","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apic-em-pnp-config-uploader","desc":"Tool for the  APIC-EM PnP App to add devices and upload their configs","githubUrl":"https://github.com/CiscoDevNet/apic-em-pnp-config-uploader","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"Device-Programmability","desc":"Sample codes - Cisco Device Programmability","githubUrl":"https://github.com/CiscoDevNet/Device-Programmability","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ODLw","desc":"ODL widget - Experimental code to store/manage/manipulate ODL data using EVE REST API framework","githubUrl":"https://github.com/CiscoDevNet/ODLw","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"}]
+[{
+  "title": "apicem-sample-codes",
+  "desc": "This repo is for everyone to share APIC-EM APIs codes",
+  "githubUrl": "https://github.com/CiscoDevNet/apicem-sample-codes",
+  "forks": 6,
+  "stars": 5,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "virl-utils",
+  "desc": "Utilities for integrating VIRL with the developer experience",
+  "githubUrl": "https://github.com/CiscoDevNet/virl-utils",
+  "forks": 1,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "coding-skills-sample-code",
+  "desc": "Sample code for the Cisco DevNet Coding Skills Learning Labs",
+  "githubUrl": "https://github.com/CiscoDevNet/coding-skills-sample-code",
+  "forks": 20,
+  "stars": 15,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "APIC-EM-HelloWorld",
+  "desc": "Some sample scripts for APIC-EM",
+  "githubUrl": "https://github.com/CiscoDevNet/APIC-EM-HelloWorld",
+  "forks": 1,
+  "stars": 5,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "eiot-example",
+  "desc": "Sample code examples for Enterprise IoT ",
+  "githubUrl": "https://github.com/CiscoDevNet/eiot-example",
+  "forks": 2,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "cosc-learning-labs",
+  "desc": "Cisco Open SDN Controller Learning Labs code.",
+  "githubUrl": "https://github.com/CiscoDevNet/cosc-learning-labs",
+  "forks": 12,
+  "stars": 7,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "nxapi-learning-labs",
+  "desc": "Cisco NX-API Learning Labs",
+  "githubUrl": "https://github.com/CiscoDevNet/nxapi-learning-labs",
+  "forks": 1,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "nxos-ansible",
+  "desc": "Ansible modules to automate Cisco NX-OS switches",
+  "githubUrl": "https://github.com/CiscoDevNet/nxos-ansible",
+  "forks": 2,
+  "stars": 5,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "devnet-dev-vms",
+  "desc": "Development VMs for DevNet technologies",
+  "githubUrl": "https://github.com/CiscoDevNet/devnet-dev-vms",
+  "forks": 3,
+  "stars": 3,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "coding-skills-go",
+  "desc": "Coding Skills examples in Go",
+  "githubUrl": "https://github.com/CiscoDevNet/coding-skills-go",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "api-design-guide",
+  "desc": "Guidelines for designing your REST API",
+  "githubUrl": "https://github.com/CiscoDevNet/api-design-guide",
+  "forks": 1,
+  "stars": 14,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "yang-explorer",
+  "desc": "An open-source Yang Browser and RPC Builder Application",
+  "githubUrl": "https://github.com/CiscoDevNet/yang-explorer",
+  "forks": 6,
+  "stars": 26,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "opendaylight-sample-apps",
+  "desc": "Sample applications for use with OpenDaylight (https://www.opendaylight.org/)",
+  "githubUrl": "https://github.com/CiscoDevNet/opendaylight-sample-apps",
+  "forks": 12,
+  "stars": 6,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "Opendaylight-BGP-Pathman-apps",
+  "desc": "BGP and PCEP apps for Opendaylight, with the backend written in Python and the UI in JavaScript for NeXt",
+  "githubUrl": "https://github.com/CiscoDevNet/Opendaylight-BGP-Pathman-apps",
+  "forks": 5,
+  "stars": 3,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "tropo-banking-sample",
+  "desc": "A simple Tropo scripting sample in python showing a number of features in a 'banking' type scenario",
+  "githubUrl": "https://github.com/CiscoDevNet/tropo-banking-sample",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "APIC-EM-REST-API-GUI-based-demos",
+  "desc": null,
+  "githubUrl": "https://github.com/CiscoDevNet/APIC-EM-REST-API-GUI-based-demos",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "flare",
+  "desc": "Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple location technologies with a realtime communications architecture, to enable new kinds of user interactions.",
+  "githubUrl": "https://github.com/CiscoDevNet/flare",
+  "forks": 4,
+  "stars": 9,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "OpenDaylight-Openflow-App",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/OpenDaylight-Openflow-App",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "opendaylight-bootcamps",
+  "desc": "repository for code created at OpenDaylight bootcamps",
+  "githubUrl": "https://github.com/CiscoDevNet/opendaylight-bootcamps",
+  "forks": 14,
+  "stars": 4,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "distributed-tx",
+  "desc": "Distributed (network wide) transaction support for ODL",
+  "githubUrl": "https://github.com/CiscoDevNet/distributed-tx",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "odl-kafka-plugin",
+  "desc": "Opendaylight kafka user agent",
+  "githubUrl": "https://github.com/CiscoDevNet/odl-kafka-plugin",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "spark-auth-sample",
+  "desc": "A simple Tropo scripting sample in python showing a number of features in a 'banking' type scenario",
+  "githubUrl": "https://github.com/CiscoDevNet/spark-auth-sample",
+  "forks": 3,
+  "stars": 5,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "apicem-ga-ll-sample-code",
+  "desc": "This sample code is paired with the Cisco DevNet Learning Labs APIC-EM APIs GA release with Python.",
+  "githubUrl": "https://github.com/CiscoDevNet/apicem-ga-ll-sample-code",
+  "forks": 1,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "sdn-springboard",
+  "desc": "Get started with Cisco SDN",
+  "githubUrl": "https://github.com/CiscoDevNet/sdn-springboard",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "apic-em-samples-aradford",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/apic-em-samples-aradford",
+  "forks": 1,
+  "stars": 2,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "spark-webhooks-sample",
+  "desc": "Scripts for creating a Spark webhook to get notified of new messages in a room, filter the messages, trigger a request to get data from APIC-EM's controller, and then post the data in a Spark room.",
+  "githubUrl": "https://github.com/CiscoDevNet/spark-webhooks-sample",
+  "forks": 3,
+  "stars": 2,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "next-ui",
+  "desc": "Open-source JS Framework for visualization network topologies",
+  "githubUrl": "https://github.com/CiscoDevNet/next-ui",
+  "forks": 4,
+  "stars": 14,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "cmx-mobile-sdk",
+  "desc": "cmx-mobile-sdk",
+  "githubUrl": "https://github.com/CiscoDevNet/cmx-mobile-sdk",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "cmx-mobile-sdk-server",
+  "desc": "cmx-mobile-sdk-server",
+  "githubUrl": "https://github.com/CiscoDevNet/cmx-mobile-sdk-server",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "pceof-gui",
+  "desc": "GUI of Path Computation Element",
+  "githubUrl": "https://github.com/CiscoDevNet/pceof-gui",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "cosc-rest-api-python",
+  "desc": "Python sample codes for COSC 1.2.1 learning lab",
+  "githubUrl": "https://github.com/CiscoDevNet/cosc-rest-api-python",
+  "forks": 3,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "openconfig-getting-started",
+  "desc": "Getting started guides for OpenConfig in Cisco IOS XR",
+  "githubUrl": "https://github.com/CiscoDevNet/openconfig-getting-started",
+  "forks": 0,
+  "stars": 2,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "restconf-examples",
+  "desc": "RESTconf examples for learning labs and sample code",
+  "githubUrl": "https://github.com/CiscoDevNet/restconf-examples",
+  "forks": 2,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "collab-uds",
+  "desc": "Learning Lab content for User Data Services lab",
+  "githubUrl": "https://github.com/CiscoDevNet/collab-uds",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "tropo-openstreetmap",
+  "desc": "Small example showing use of Tropo WebAPI (Python) and OpenStreetMap's Overpass API to translate an SMS address to a set of lattitude longitude coordinates",
+  "githubUrl": "https://github.com/CiscoDevNet/tropo-openstreetmap",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "grpc-getting-started",
+  "desc": "Getting started guide for gRPC in Cisco IOS XR",
+  "githubUrl": "https://github.com/CiscoDevNet/grpc-getting-started",
+  "forks": 1,
+  "stars": 3,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "aci-learning-labs",
+  "desc": "DevNet Learning Labs covering Cisco ACI",
+  "githubUrl": "https://github.com/CiscoDevNet/aci-learning-labs",
+  "forks": 3,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "iotvizconf",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/iotvizconf",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "finesse-learning-labs",
+  "desc": "DevNet Learning Labs on Finesse",
+  "githubUrl": "https://github.com/CiscoDevNet/finesse-learning-labs",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "choochoo",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/choochoo",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ydk-py",
+  "desc": "Python SDK generated from YANG data models.",
+  "githubUrl": "https://github.com/CiscoDevNet/ydk-py",
+  "forks": 2,
+  "stars": 7,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "sample-code-cmx",
+  "desc": "Sample code for Cisco CMX (connected mobility experience)",
+  "githubUrl": "https://github.com/CiscoDevNet/sample-code-cmx",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "git-intro-workstation-reset",
+  "desc": "A python script to reset the git-intro learning lab series",
+  "githubUrl": "https://github.com/CiscoDevNet/git-intro-workstation-reset",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "netconf-examples",
+  "desc": "NETCONF examples for learning labs",
+  "githubUrl": "https://github.com/CiscoDevNet/netconf-examples",
+  "forks": 0,
+  "stars": 2,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "cmx-education",
+  "desc": "CMX Education",
+  "githubUrl": "https://github.com/CiscoDevNet/cmx-education",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "collab-jg",
+  "desc": "Learning Lab content for the Cisco collaboration Jabber Guest Web API",
+  "githubUrl": "https://github.com/CiscoDevNet/collab-jg",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "collab-webex",
+  "desc": "Learning Lab content for the Cisco collaboration WebEx API",
+  "githubUrl": "https://github.com/CiscoDevNet/collab-webex",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "virl-learning-lab",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/virl-learning-lab",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "didactic-spork",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/didactic-spork",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "yang-examples",
+  "desc": "",
+  "githubUrl": "https://github.com/CiscoDevNet/yang-examples",
+  "forks": 0,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "opendaylight-setup",
+  "desc": "scripts to setup OpenDaylight",
+  "githubUrl": "https://github.com/CiscoDevNet/opendaylight-setup",
+  "forks": 1,
+  "stars": 1,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ydk-gen",
+  "desc": "Extensions to pyang for generating code from yang models.",
+  "githubUrl": "https://github.com/CiscoDevNet/ydk-gen",
+  "forks": 3,
+  "stars": 6,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ydk-py-samples",
+  "desc": "Sample apps for YDK-Py",
+  "githubUrl": "https://github.com/CiscoDevNet/ydk-py-samples",
+  "forks": 0,
+  "stars": 3,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "coding-skills-spark",
+  "desc": "Sample code for Spark",
+  "githubUrl": "https://github.com/CiscoDevNet/coding-skills-spark",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "apic-em-pnp-config-uploader",
+  "desc": "Tool for the  APIC-EM PnP App to add devices and upload their configs",
+  "githubUrl": "https://github.com/CiscoDevNet/apic-em-pnp-config-uploader",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "Device-Programmability",
+  "desc": "Sample codes - Cisco Device Programmability",
+  "githubUrl": "https://github.com/CiscoDevNet/Device-Programmability",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ODLw",
+  "desc": "ODL widget - Experimental code to store/manage/manipulate ODL data using EVE REST API framework",
+  "githubUrl": "https://github.com/CiscoDevNet/ODLw",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}]

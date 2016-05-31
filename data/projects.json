@@ -1,1 +1,41 @@
-[]
+[{
+  "title": "next-ui",
+  "desc": "Open-source JS Framework for visualization network topologies",
+  "githubUrl": "https://github.com/CiscoDevNet/next-ui",
+  "forks": 4,
+  "stars": 14,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "flare",
+  "desc": "Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple location technologies with a realtime communications architecture, to enable new kinds of user interactions.",
+  "githubUrl": "https://github.com/CiscoDevNet/flare",
+  "forks": 4,
+  "stars": 9,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ODLw",
+  "desc": "ODL widget - Experimental code to store/manage/manipulate ODL data using EVE REST API framework",
+  "githubUrl": "https://github.com/CiscoDevNet/ODLw",
+  "forks": 1,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+},{
+  "title": "apic-em-pnp-config-uploader",
+  "desc": "Tool for the  APIC-EM PnP App to add devices and upload their configs",
+  "githubUrl": "https://github.com/CiscoDevNet/apic-em-pnp-config-uploader",
+  "forks": 0,
+  "stars": 0,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}, {
+  "title": "ydk-gen",
+  "desc": "Extensions to pyang for generating code from yang models.",
+  "githubUrl": "https://github.com/CiscoDevNet/ydk-gen",
+  "forks": 3,
+  "stars": 6,
+  "org": "CiscoDevNet",
+  "orgUrl": "https://github.com/CiscoDevNet"
+}]

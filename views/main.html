@@ -1,46 +1,35 @@
 
-        <hr class="featurette-divider">
-
-      <div id="navbar" class="navbar-collapse collapse">
-        <!-- <ul class="nav navbar-nav">
-          <li><a class="filter nav-category" ng-click="searchProjects = ''">All Projects</a></li>
-          <li><a class="filter nav-category" ng-click="searchProjects = 'ydk'">Networking</a></li>
-          <li><a class="filter nav-category" ng-click="searchProjects = 'open'">Datacenter</a></li>
-          <li><a class="filter nav-category" ng-click="searchProjects = 'spark'">Spark</a></li>
-        </ul> -->
-        <div class="nav navbar-nav navbar-right" >
-          <div class="ssBtns">
-            <!-- <button type="button" class="btn btn-default btn-xs rndBtn" id="sortNewest"><i class="fa fa-clock-o"></i></button> -->
-            <!-- <button type="button" class="btn btn-default btn-xs rndBtn" id="sortAsc" ng-click="sort('title')"><i class="fa fa-sort-alpha-asc"></i></button> -->
-            <button type="button" class="btn btn-default btn-xs rndBtn" id="sortAsc" ng-click="reset()">Reset</button>
+      
+      <div class="featurette" ng-controller="MainCtrl">
+        <div class="row">
+          <div class="navbar navbar-header" style="padding-left:20px;">
+            <span><h2>{{pageTitle}}</h2></span>
           </div>
-        </div>
-
-      </div>
-
-        <!-- Featurette -->
-        <div class="featurette" id="services">
-            <form class="navbar-form navbar-right searchBar" role="search" onsubmit="return false">
+          <div>
+            <form class="navbar-form pull-right" role="search" onsubmit="return false">
               <div class="form-group">
                 <input type="text" class="form-control" id="searchTxt" placeholder="Search Projects" ng-model="searchProjects">
+                <span class="ssBtns">
+                  <button type="button" class="btn btn-default btn-xs rndBtn pull-right" id="sortAsc" ng-click="reset()">Reset</button>
+                </span>
               </div>
             </form>
-            <h2 class="featurette-heading">{{pageTitle}}</h2>
-                <div class="row" ng-controller="MainCtrl">
-                <div class="col-sm-6 col-md-4" dir-paginate="project in projects | orderBy:predicate:reverse | filter:searchProjects | itemsPerPage: itemsPerPage ">
-                  <div class="pListItem">
-                    <h2><a href="{{project.githubUrl}}" target="_blank">{{project.title | cut:false:18:' ...'}}</a></h2>
-                    <p ng-show="project.desc">{{project.desc | cut:true:200:' ...'}}</p>
-                    <span class="meta">
-                      <span class="stars"><i class="fa fa-star"></i>{{project.stars}}</span> <span class="forks"><i class="fa fa-code-fork"></i>{{project.forks}}</span>
-                      <span class="pull-right"><a href="{{project.orgUrl}}">{{project.org}}</a></span>
-                    </span>
-                  </div>
-                </div>
-              </div>
-            <dir-pagination-controls></dir-pagination-controls>
-            </div>
+          </div>
         </div>
+        <div dir-paginate="project in projects | orderBy:predicate:reverse | filter:searchProjects | itemsPerPage: itemsPerPage " >
+        <div ng-if="$index % 3 == 0" class="row"></div>
+        <div class="col-md-4" >
+          <div class="pListItem">
+            <h2><a href="{{project.githubUrl}}" target="_blank">{{project.title | cut:false:18:' ...'}}</a></h2>
+            <p>{{project.desc | cut:true:200:' ...'}}</p>
+            <span class="meta">
+              <span class="stars"><i class="fa fa-star"></i>{{project.stars}}</span>&nbsp;<span class="forks"><i class="fa fa-code-fork"></i>{{project.forks}}</span>
+              <span>&nbsp;&nbsp;<a href="{{project.orgUrl}}">{{project.org}}</a></span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <dir-pagination-controls></dir-pagination-controls>
 
-        <hr class="featurette-divider">
 
