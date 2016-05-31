@@ -13,7 +13,6 @@ angular
     'ngResource',
     'ngRoute',
     'angularUtils.directives.dirPagination',
-    'projectGridDirective'
   ])
   .config(function ($routeProvider) {
     $routeProvider
