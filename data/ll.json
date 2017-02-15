@@ -1,1 +1,137 @@
-[{"title":"cosc-learning-labs","desc":"Cisco Open SDN Controller Learning Labs code.","githubUrl":"https://github.com/CiscoDevNet/cosc-learning-labs","forks":13,"stars":8,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"data-dev-learning-labs","desc":"Source for the Cisco DevNet Data Developer learning labs","githubUrl":"https://github.com/CiscoDevNet/data-dev-learning-labs","forks":9,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"aci-learning-labs","desc":"DevNet Learning Labs covering Cisco ACI","githubUrl":"https://github.com/CiscoDevNet/aci-learning-labs","forks":6,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"coding-series-learning-labs","desc":"Source for the Cisco DevNet Coding series learning labs","githubUrl":"https://github.com/CiscoDevNet/coding-series-learning-labs","forks":5,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"finesse-learning-labs","desc":"DevNet Learning Labs on Finesse","githubUrl":"https://github.com/CiscoDevNet/finesse-learning-labs","forks":2,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"nxapi-learning-labs","desc":"Cisco NX-API Learning Labs","githubUrl":"https://github.com/CiscoDevNet/nxapi-learning-labs","forks":3,"stars":1,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"meraki-learning-labs","desc":"Meraki DevNet Learning Labs ","githubUrl":"https://github.com/CiscoDevNet/meraki-learning-labs","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"networking-series-learning-labs","desc":"Learning Labs source for the Networking 1xx series","githubUrl":"https://github.com/CiscoDevNet/networking-series-learning-labs","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"learning-labs-howto","desc":"Guide on how to create a Cisco DevNet Learning Lab","githubUrl":"https://github.com/CiscoDevNet/learning-labs-howto","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"vsom-learning-labs","desc":"Video Surveillance Operations Manager Learning Labs source","githubUrl":"https://github.com/CiscoDevNet/vsom-learning-labs","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"apic-em-learning-labs","desc":"Learning Labs source for APIC-EM","githubUrl":"https://github.com/CiscoDevNet/apic-em-learning-labs","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"clus-train-learning-labs","desc":"DevNet Train Learning Labs ","githubUrl":"https://github.com/CiscoDevNet/clus-train-learning-labs","forks":0,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"metacloud-learning-labs","desc":"Metacloud DevNet Learning Labs ","githubUrl":"https://github.com/CiscoDevNet/metacloud-learning-labs","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"ucs-manager-powertool-learning-labs","desc":"Learning Labs for UCS Manager PowerTool","githubUrl":"https://github.com/CiscoDevNet/ucs-manager-powertool-learning-labs","forks":1,"stars":0,"org":"CiscoDevNet","orgUrl":"https://github.com/CiscoDevNet"},{"title":"Shipped-Learning-Labs","desc":"A place for uploading, reviewing, and tracking development of Shipped Learning Labs","githubUrl":"https://github.com/CiscoCloud/Shipped-Learning-Labs","forks":2,"stars":4,"org":"CiscoCloud","orgUrl":"https://github.com/CiscoCloud"}]
+[
+  {
+    "title": "cosc-learning-labs",
+    "desc": "Cisco Open SDN Controller Learning Labs code.",
+    "githubUrl": "https://github.com/CiscoDevNet/cosc-learning-labs",
+    "forks": 13,
+    "stars": 9,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "data-dev-learning-labs",
+    "desc": "Source for the Cisco DevNet Data Developer learning labs",
+    "githubUrl": "https://github.com/CiscoDevNet/data-dev-learning-labs",
+    "forks": 10,
+    "stars": 5,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "coding-series-learning-labs",
+    "desc": "Source for the Cisco DevNet Coding series learning labs",
+    "githubUrl": "https://github.com/CiscoDevNet/coding-series-learning-labs",
+    "forks": 5,
+    "stars": 2,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "aci-learning-labs",
+    "desc": "DevNet Learning Labs covering Cisco ACI",
+    "githubUrl": "https://github.com/CiscoDevNet/aci-learning-labs",
+    "forks": 6,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "nxapi-learning-labs",
+    "desc": "Cisco NX-API Learning Labs",
+    "githubUrl": "https://github.com/CiscoDevNet/nxapi-learning-labs",
+    "forks": 3,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "finesse-learning-labs",
+    "desc": "DevNet Learning Labs on Finesse",
+    "githubUrl": "https://github.com/CiscoDevNet/finesse-learning-labs",
+    "forks": 2,
+    "stars": 2,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "apic-em-learning-labs",
+    "desc": "Learning Labs source for APIC-EM",
+    "githubUrl": "https://github.com/CiscoDevNet/apic-em-learning-labs",
+    "forks": 2,
+    "stars": 2,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "metacloud-learning-labs",
+    "desc": "Metacloud DevNet Learning Labs ",
+    "githubUrl": "https://github.com/CiscoDevNet/metacloud-learning-labs",
+    "forks": 2,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "ucs-manager-powertool-learning-labs",
+    "desc": "Learning Labs for UCS Manager PowerTool",
+    "githubUrl": "https://github.com/CiscoDevNet/ucs-manager-powertool-learning-labs",
+    "forks": 2,
+    "stars": 1,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "meraki-learning-labs",
+    "desc": "Meraki DevNet Learning Labs ",
+    "githubUrl": "https://github.com/CiscoDevNet/meraki-learning-labs",
+    "forks": 1,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "learning-labs-howto",
+    "desc": "Guide on how to create a Cisco DevNet Learning Lab",
+    "githubUrl": "https://github.com/CiscoDevNet/learning-labs-howto",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "networking-series-learning-labs",
+    "desc": "Learning Labs source for the Networking 1xx series",
+    "githubUrl": "https://github.com/CiscoDevNet/networking-series-learning-labs",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "clus-train-learning-labs",
+    "desc": "DevNet Train Learning Labs ",
+    "githubUrl": "https://github.com/CiscoDevNet/clus-train-learning-labs",
+    "forks": 0,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "vsom-learning-labs",
+    "desc": "Video Surveillance Operations Manager Learning Labs source",
+    "githubUrl": "https://github.com/CiscoDevNet/vsom-learning-labs",
+    "forks": 1,
+    "stars": 0,
+    "org": "CiscoDevNet",
+    "orgUrl": "https://github.com/CiscoDevNet"
+  },
+  {
+    "title": "Shipped-Learning-Labs",
+    "desc": "A place for uploading, reviewing, and tracking development of Shipped Learning Labs",
+    "githubUrl": "https://github.com/CiscoCloud/Shipped-Learning-Labs",
+    "forks": 2,
+    "stars": 4,
+    "org": "CiscoCloud",
+    "orgUrl": "https://github.com/CiscoCloud"
+  }
+]
