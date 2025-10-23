@@ -18,7 +18,7 @@
       "orgUrl":"https://github.com/CiscoDevNet"
    },
    {
-      "title":"ciscosparkapi",
+      "title":"webexteamsapi",
       "desc":"Simple, lightweight, scalable Python API wrapper for the Cisco Webex APIs",
       "githubUrl":"https://github.com/CiscoDevNet/webexteamssdk",
       "forks":115,
